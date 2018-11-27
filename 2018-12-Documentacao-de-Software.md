@@ -31,6 +31,10 @@ Os conhecimentos a seguir podem ser adquiridos durante o estágio:
 * **HTML+CSS**: a customização do modelo pode requerer conhecimentos básicos de [páginas html](https://www.w3schools.com/html/) e [css](https://www.w3schools.com/css/) para configurar o visual.
 * **Edição/Criação de imagens**: para elaborar a documentação pode ser necessário tirar screenshots, adicionar setas ou recortar imagens.
 
+## Aonde será o estágio
+
+O estágio será remoto, vocês poderão realizar através de qualquer computador.
+
 ## Como se candidatar
 
 
