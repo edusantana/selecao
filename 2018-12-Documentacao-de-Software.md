@@ -37,12 +37,12 @@ O estágio será remoto, vocês poderão realizar através de qualquer computado
 
 ## Como se candidatar
 
-
 1. Cadastre-se sua intenção [criando um issue nesse repositório](https://github.com/edusantana/selecao/issues/new?title=Est%C3%A1gio%20sobre%20documenta%C3%A7%C3%A3o%20de%20software).
 2. Crie um arquivo do word/writer para documentar como realizar uma atividade, em qualquer software. Exemplo: Como submeter um vídeo para o Youtube, como criar um planfleto no canva etc.
-3. Separa a documentação em passos. Passo 1: ..., Passo 2, etc.
-4. Vá no [issue que você criou](https://github.com/edusantana/selecao/issues) e envie a documentação como anexo nos comentários.
-5. Informe também, no memso issue, todos os textos (links) que leu para realizar a documentação.
+3. Escrever a documentação em passos. Passo 1: ..., Passo 2, etc.
+4. Vá no [issue que você criou](https://github.com/edusantana/selecao/issues) e envia a documentação como anexo.
+5. Você pode enviar mais de uma documentação.
+6. Informe também, no mesmo issue, todos os textos (links) que leu para realizar a documentação.
 
 - As dúvidas podem ser postadas [no issue que criou](https://github.com/edusantana/selecao/issues).
 
