@@ -54,7 +54,7 @@ O estágio será remoto, vocês poderão realizar através de qualquer computado
 - Bom relacionamento
 - Pesquisas e Leituras realizadas
 
-A avaliação será realizada entre o professor e a empresa.
+A avaliação será realizada entre o professor e representante da empresa.
 
 ### Resultado
 
