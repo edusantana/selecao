@@ -1,6 +1,9 @@
 # Processo seletivo para estágio em documentação de software
 
+---
 status: ativo
+
+---
 
 ## Objetivo do estágio
 
