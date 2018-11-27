@@ -31,8 +31,9 @@ Os conhecimentos a seguir podem ser adquiridos durante o estágio:
 
 1. Cadastre-se sua intenção [nesse repositório](https://github.com/edusantana/selecao/issues/new?title=Est%C3%A1gio%20sobre%20documenta%C3%A7%C3%A3o%20de%20software).
 2. Crie um arquivo do word/writer para documentar como realizar uma atividade, em qualquer software. Exemplo: Como submeter um vídeo para o Youtube, como criar um planfleto no canva etc.
-3. Separa a documentação em passos. Passo 1: ..., Passo 2, etc. Veja [essa exemplo de documentação](https://codelabs.developers.google.com/codelabs/polymer-first-elements-pt-br/).
+3. Separa a documentação em passos. Passo 1: ..., Passo 2, etc.
 4. Vá no [issue que você criou](https://github.com/edusantana/selecao/issues) e envie a documentação como anexo nos comentários.
+5. Informe também, no memso issue, todos os textos (links) que leu para realizar a documentação.
 
 ## Critérios de avaliação e resultado
 
@@ -40,6 +41,7 @@ Os conhecimentos a seguir podem ser adquiridos durante o estágio:
 - Texto bem escrito
 - Imagens claras e evidentes
 - Bom relacionamento
+- Pesquisas e Leituras realizadas
 
 A avaliação será realizada entre o professor e a empresa.
 
