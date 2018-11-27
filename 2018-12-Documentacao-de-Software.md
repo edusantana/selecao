@@ -24,8 +24,25 @@ Os conhecimentos a seguir podem ser adquiridos durante o estágio:
 * **git**: a gerência da documentação envolve submeter os textos fontes para um servidor externo, para isso, geralmente [utilizamos o git](https://git-scm.com/book/pt-br/v2).
 * **Markdown**: a documentação será escrita no formato [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * **HTML+CSS**: a customização do modelo pode requerer conhecimentos básicos de [páginas html](https://www.w3schools.com/html/) e [css](https://www.w3schools.com/css/) para configurar o visual.
+* **Edição/Criação de imagens**: para elaborar a documentação pode ser necessário tirar screenshots, adicionar setas ou recortar imagens.
 
 ## Como se candidatar
 
 
-Cadastre-se sua intenção [nesse repositório](https://github.com/edusantana/selecao/issues/new?title=Est%C3%A1gio%20sobre%20documenta%C3%A7%C3%A3o%20de%20software).
+1. Cadastre-se sua intenção [nesse repositório](https://github.com/edusantana/selecao/issues/new?title=Est%C3%A1gio%20sobre%20documenta%C3%A7%C3%A3o%20de%20software).
+2. Crie um arquivo do word/writer para documentar como realizar uma atividade, em qualquer software. Exemplo: Como submeter um vídeo para o Youtube, como criar um planfleto no canva etc.
+3. Separa a documentação em passos. Passo 1: ..., Passo 2, etc. Veja [essa exemplo de documentação](https://codelabs.developers.google.com/codelabs/polymer-first-elements-pt-br/).
+4. Vá no [issue que você criou](https://github.com/edusantana/selecao/issues) e envie a documentação como anexo nos comentários.
+
+## Critérios de avaliação e resultado
+
+- Entendeu e foi capaz de realizar as instruções
+- Texto bem escrito
+- Imagens claras e evidentes
+- Bom relacionamento
+
+A avaliação será realizada entre o professor e a empresa.
+
+### Resultado
+
+O resultado será anunciado na primeira semana de Dezembro.
