@@ -1,16 +1,3 @@
----
-id: documentacao-dezembro-2018
-summary: "Divulgação do processo seletivo para estágio remunerado em documentação de software"
-url: documentacao-dezembro-2018
-category: "Web"
-environment: web
-status: Published
-author: edusantana
-feedback link: https://github.com/edusantana/selecao/issues
-formatting help: https://github.com/googlecodelabs/tools/tree/master/claat/parser/md
-
----
-
 # Estágio sobre documentação de software
 
 ## Objetivo do estágio
